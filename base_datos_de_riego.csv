@@ -1,4 +1,4 @@
-ID Productor,ID cuadrante,Tiempo de riego Dia,Tiempo riego semana,Tiempo riego mes,Duración ciclo,Tiempo riego ciclo,Fuente,Consumo galones,Q_m3s,Qt_mes,Qt_ciclo
+ID Productor,ID cuadrante,Tiempo de riego Dia,Tiempo riego semana,Tiempo riego mes,DuraciÃ³n ciclo,Tiempo riego ciclo,Fuente,Consumo galones,Q_m3s,Qt_mes,Qt_ciclo
 C18_1,18,24,168,720,3,2160,2,360,0.015646167,40554,121664.595
 C18_2,18,24,168,720,3,2160,2,360,0.015646167,40554,121664.595
 C18_3,18,2,13.6,60,3,180,2,360,0.009164373,1979.5,5938.5137
